@@ -10,3 +10,5 @@ pip install requierements.txt
 ```
 streamlit run main.py
 ```
+
+Signs reference link: https://www.iamexpat.de/expat-info/driving-germany/road-signs

@@ -5,8 +5,8 @@ import tensorflow as tf
 from predicted_classes import get_class_name
 
 # Load your trained model
-cnn_model = tf.keras.models.load_model("cnn.keras")
-ann_model = tf.keras.models.load_model("ann.keras")
+cnn_model = tf.keras.models.load_model("./models/cnn.keras")
+ann_model = tf.keras.models.load_model("./models/ann.keras")
 
 
 def process_image(image):

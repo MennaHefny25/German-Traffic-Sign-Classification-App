@@ -1,7 +1,12 @@
+
 ## Installation
 
-To install the required dependencies, run the following command:
+```
+pip install requierements.txt
+```
 
-```bash
-pip install -r requirements.txt
+## Usage
+
+```
+streamlit run main.py
 ```
